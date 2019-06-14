@@ -8,4 +8,5 @@ function changeButtonColor() {
     {
     document.getElementById("myButton").style.backgroundColor = 'red';
     } 
+    //
     }
